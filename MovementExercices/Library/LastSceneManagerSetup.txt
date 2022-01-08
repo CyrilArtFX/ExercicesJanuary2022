@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/1. Sliding A Sphere/Scenes/Scene.unity
+- path: Assets/2. Physics/Scenes/SceneSlopes.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
