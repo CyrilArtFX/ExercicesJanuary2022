@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\2. Physics\Scripts\MovingSpherePhysics.cs" />
     <Compile Include="Assets\1. Sliding A Sphere\Scripts\MovingSphere.cs" />
+    <Compile Include="Assets\3. Surface Contact\Scripts\MovingSphereSurfaceContact.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

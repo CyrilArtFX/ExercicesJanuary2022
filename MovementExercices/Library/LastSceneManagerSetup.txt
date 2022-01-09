@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/2. Physics/Scenes/SceneSlopes.unity
+- path: Assets/3. Surface Contact/Scenes/SceneStairs.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
