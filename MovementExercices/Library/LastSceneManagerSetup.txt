@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/3. Surface Contact/Scenes/SceneStairs.unity
+- path: Assets/4. Orbit Camera/Scenes/SceneCameraTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -53,9 +53,11 @@
     <UnityVersion>2020.3.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\2. Physics\Scripts\MovingSpherePhysics.cs" />
-    <Compile Include="Assets\1. Sliding A Sphere\Scripts\MovingSphere.cs" />
     <Compile Include="Assets\3. Surface Contact\Scripts\MovingSphereSurfaceContact.cs" />
+    <Compile Include="Assets\4. Orbit Camera\Scripts\MovingSphereOrbitCamera.cs" />
+    <Compile Include="Assets\2. Physics\Scripts\MovingSpherePhysics.cs" />
+    <Compile Include="Assets\4. Orbit Camera\Scripts\OrbitCamera.cs" />
+    <Compile Include="Assets\1. Sliding A Sphere\Scripts\MovingSphere.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
