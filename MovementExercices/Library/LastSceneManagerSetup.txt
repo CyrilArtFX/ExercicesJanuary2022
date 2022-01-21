@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/4. Orbit Camera/Scenes/SceneCameraTest.unity
+- path: Assets/5. Custom Gravity/Scenes/SceneGravityPlanet.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

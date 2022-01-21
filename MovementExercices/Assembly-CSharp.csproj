@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <LangVersion>latest</LangVersion>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -47,17 +47,25 @@
   <PropertyGroup>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Package</UnityProjectGenerator>
-    <UnityProjectGeneratorVersion>2.0.12</UnityProjectGeneratorVersion>
+    <UnityProjectGeneratorVersion>2.0.14</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2020.3.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="Assets\3. Surface Contact\Scripts\MovingSphereSurfaceContact.cs" />
+    <Compile Include="Assets\5. Custom Gravity\Scripts\OrbitCameraCustomGravity.cs" />
+    <Compile Include="Assets\5. Custom Gravity\Scripts\CustomGravity.cs" />
     <Compile Include="Assets\4. Orbit Camera\Scripts\MovingSphereOrbitCamera.cs" />
     <Compile Include="Assets\2. Physics\Scripts\MovingSpherePhysics.cs" />
+    <Compile Include="Assets\5. Custom Gravity\Scripts\MovingSphereCustomGravity.cs" />
     <Compile Include="Assets\4. Orbit Camera\Scripts\OrbitCamera.cs" />
+    <Compile Include="Assets\5. Custom Gravity\Scripts\UseCustomGravity.cs" />
     <Compile Include="Assets\1. Sliding A Sphere\Scripts\MovingSphere.cs" />
+    <Compile Include="Assets\5. Custom Gravity\Scripts\CustomGravityRigidbody.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
