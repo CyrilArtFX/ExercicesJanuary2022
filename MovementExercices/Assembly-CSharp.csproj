@@ -57,15 +57,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\3. Surface Contact\Scripts\MovingSphereSurfaceContact.cs" />
+    <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\CustomGravityRigidbodyComplexGravity.cs" />
+    <Compile Include="Assets\6. Complex Gravity\Scripts\MovingSphereComplexGravity.cs" />
     <Compile Include="Assets\5. Custom Gravity\Scripts\OrbitCameraCustomGravity.cs" />
+    <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\GravityPlane.cs" />
+    <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\GravitySphere.cs" />
     <Compile Include="Assets\5. Custom Gravity\Scripts\CustomGravity.cs" />
+    <Compile Include="Assets\5. Custom Gravity\Scripts\CustomGravityRigidbody.cs" />
+    <Compile Include="Assets\6. Complex Gravity\Scripts\OrbitCameraComplexGravity.cs" />
     <Compile Include="Assets\4. Orbit Camera\Scripts\MovingSphereOrbitCamera.cs" />
     <Compile Include="Assets\2. Physics\Scripts\MovingSpherePhysics.cs" />
+    <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\GravitySource.cs" />
+    <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\CustomGravityComplexGravity.cs" />
     <Compile Include="Assets\5. Custom Gravity\Scripts\MovingSphereCustomGravity.cs" />
     <Compile Include="Assets\4. Orbit Camera\Scripts\OrbitCamera.cs" />
     <Compile Include="Assets\5. Custom Gravity\Scripts\UseCustomGravity.cs" />
     <Compile Include="Assets\1. Sliding A Sphere\Scripts\MovingSphere.cs" />
-    <Compile Include="Assets\5. Custom Gravity\Scripts\CustomGravityRigidbody.cs" />
+    <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\GravityBox.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
