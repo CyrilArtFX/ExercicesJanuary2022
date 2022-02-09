@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/7. Moving The Ground/Scenes/MovingObjectsScene.unity
+- path: Assets/8. Climbing/Scenes/ClimbingScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
