@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/8. Climbing/Scenes/ClimbingScene.unity
+- path: Assets/9. Swimming/Scenes/SwimmingScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -63,21 +63,25 @@
     <Compile Include="Assets\5. Custom Gravity\Scripts\OrbitCameraCustomGravity.cs" />
     <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\GravityPlane.cs" />
     <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\GravitySphere.cs" />
+    <Compile Include="Assets\9. Swimming\Scripts\MovingSphereSwimming.cs" />
     <Compile Include="Assets\7. Moving The Ground\Scripts\MovingSphereMovingTheGround.cs" />
     <Compile Include="Assets\5. Custom Gravity\Scripts\CustomGravity.cs" />
     <Compile Include="Assets\5. Custom Gravity\Scripts\CustomGravityRigidbody.cs" />
+    <Compile Include="Assets\8. Climbing\Scripts\MovingSphereClimbing.cs" />
     <Compile Include="Assets\6. Complex Gravity\Scripts\OrbitCameraComplexGravity.cs" />
     <Compile Include="Assets\4. Orbit Camera\Scripts\MovingSphereOrbitCamera.cs" />
     <Compile Include="Assets\2. Physics\Scripts\MovingSpherePhysics.cs" />
     <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\GravitySource.cs" />
+    <Compile Include="Assets\9. Swimming\Scripts\OrbitCameraSwimming.cs" />
     <Compile Include="Assets\6. Complex Gravity\Scripts\ComplexGravityScripts\CustomGravityComplexGravity.cs" />
     <Compile Include="Assets\5. Custom Gravity\Scripts\MovingSphereCustomGravity.cs" />
+    <Compile Include="Assets\8. Climbing\Scripts\OrbitCameraClimbing.cs" />
     <Compile Include="Assets\4. Orbit Camera\Scripts\OrbitCamera.cs" />
     <Compile Include="Assets\7. Moving The Ground\Scripts\OrbitCameraMovingTheGround.cs" />
     <Compile Include="Assets\5. Custom Gravity\Scripts\UseCustomGravity.cs" />
     <Compile Include="Assets\1. Sliding A Sphere\Scripts\MovingSphere.cs" />
-    <Compile Include="Assets\8. Climbing\Scripts\MovingSphereClimbing.cs" />
-    <Compile Include="Assets\8. Climbing\Scripts\OrbitCameraClimbing.cs" />
+    <Compile Include="Assets\9. Swimming\Scripts\CustomRigidbodyScripts\CustomGravityRigidbodySwimming.cs" />
+    <Compile Include="Assets\9. Swimming\Scripts\CustomRigidbodyScripts\StableFloatingRigidbody.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
