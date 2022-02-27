@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/9. Swimming/Scenes/SwimmingScene.unity
+- path: Assets/10. Reactive Environment/Scenes/ReactiveEnvironmentScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
