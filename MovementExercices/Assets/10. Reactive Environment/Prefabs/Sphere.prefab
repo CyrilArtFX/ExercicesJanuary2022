@@ -81,7 +81,7 @@ MonoBehaviour:
     m_Bits: 3107
   stairsMask:
     serializedVersion: 2
-    m_Bits: 6967
+    m_Bits: 1024
   climbMask:
     serializedVersion: 2
     m_Bits: 1315
